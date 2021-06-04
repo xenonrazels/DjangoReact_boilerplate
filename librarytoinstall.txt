@@ -1,0 +1,4 @@
+fontawesomne
+reactstrap
+reacticons
+bootstrap
